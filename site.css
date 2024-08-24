@@ -9,7 +9,7 @@ h1, h2, h3, h4 {
     border: 1px solid #D6A800;
     padding: 10px;
     color: white;
-    font-family: "New Amsterdam", serif;
+    font-family: "New Amsterdam", sans-serif;
 }
 a {
     color: chocolate;
@@ -20,4 +20,9 @@ a:hover {
 }
 a:visited {
     color: #4F3674;
+}
+.new-amsterdam-regular {
+    font-family: "New Amsterdam", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
