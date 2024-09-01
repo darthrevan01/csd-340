@@ -1,0 +1,25 @@
+h1, h3 {
+    text-align: center;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+}
+.grid-item {
+    text-align: center;
+    padding: 20px;
+}
+#image-gallery {
+    margin-top: 10%;
+}
+figure {
+    text-align: center;
+}
+figcaption {
+    font-style: italic;
+    font-size: .75em;
+}
+img {
+    scale: 0.95;
+}
