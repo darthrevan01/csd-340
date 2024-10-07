@@ -1,0 +1,48 @@
+h1, h3 {
+    text-align: center;
+}
+h3 {
+    font-weight: 500;
+}
+ol {
+    padding: 10px;
+    list-style-position: inside;
+}
+ul {
+    padding: 10px;
+    list-style-type: upper-roman;
+    list-style-position: inside;
+}
+li {
+    font-weight: 300;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+.div-left, .div-right {
+    width: 45%;
+}
+.div-left {
+    float: left;
+    border: red solid 1px;
+    border-radius: 15px;
+}
+.div-right {
+    margin-left: 50%;
+    border: red dashed 1px;
+    border-radius: 15px;
+}
+.last-div {
+    float: right;
+    text-align: right;
+    width: 100%;
+    margin-top: 60%;
+    margin-bottom: 20px;
+}
+#buttons {
+    text-align: center;
+    margin-top: 10px;
+}
